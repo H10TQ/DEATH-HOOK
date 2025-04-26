@@ -1,2 +1,2 @@
-# H10TQ's Webhook-Spammer
+# Death - Hook
 This is a discord webhook spammer i made in batch
